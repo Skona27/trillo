@@ -4,6 +4,7 @@ In progress
 
 Used in this project:  
 -HTML5 and CSS3  
+-SASS  
 -CSS Flexbox  
 -CSS animation effects  
 -SVG icons  
